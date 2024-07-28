@@ -6,17 +6,20 @@ npx create-react-app money-transaction-app
 npm install react-router-dom axios
 
 ## 3. create components
-- Header
-- Home
-- Transaction
-- AddTransaction
-- EditTransaction
+- Appbar
+- Balance
+- BottomWarning
+- Button
+- Heading
+- InputBox
+- SubHeading
+- Users
 
-## 4. create routes
-- Home
-- Transaction
-- AddTransaction
-- EditTransaction
+## 4. create pages
+- Dashboard
+- SendMoney
+- Signin
+- Signup
 
 ## 5. create api
 - get all transactions
