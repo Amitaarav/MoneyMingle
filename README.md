@@ -2,10 +2,10 @@
 ## 1. create a new react app
 npx create-react-app money-transaction-app
 
-## 2. install dependencies
+## 2. installed dependencies
 npm install react-router-dom axios
 
-## 3. create components
+## 3. created components
 - Appbar
 - Balance
 - BottomWarning
@@ -15,23 +15,23 @@ npm install react-router-dom axios
 - SubHeading
 - Users
 
-## 4. create pages
+## 4. created pages
 - Dashboard
 - SendMoney
 - Signin
 - Signup
 
-## 5. create api
+## 5. created api
 - get all transactions
 - get transaction by id
 - create transaction
 - update transaction
 - delete transaction
 
-## 6. create state
+## 6. created state
 - transactions
 - currentTransaction
-## 7. create functions
+## 7. created functions
 - getTransactions
 - getTransactionById
 - createTransaction
